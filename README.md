@@ -1,7 +1,3 @@
-Absolutely! Here's a README.md file for your Git repository:
-
----
-
 # Absenteeism Data Analysis
 
 This repository contains code for analyzing absenteeism data to predict whether an employee will be absent from work for more than the median time.
